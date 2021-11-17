@@ -30,6 +30,7 @@
 <div style="display:flex;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"  style="height:100px;width=100px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="height:100px;width=100px;"/>
+ <img src="https://www.gimp.org/images/frontpage/wilber-big.png" style="height:100px;width=100px"/>
  
   
   <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" style="height:100px;width=100px;"/>
