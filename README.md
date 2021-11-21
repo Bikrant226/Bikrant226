@@ -5,6 +5,7 @@
 <p>🌱 I’m currently learning <b>MERN</b> stack.</p>
 <p>💞️ I’m looking to collaborate on <b>fullstack</b> projects</p>
 <hr/>
+<h1>Website: https://bikrant.netlify.app</h1>
  
 <h1>My visitors</h1> 
 
